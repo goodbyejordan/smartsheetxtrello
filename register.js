@@ -1,0 +1,1 @@
+// register.js placeholder; use prior content.
